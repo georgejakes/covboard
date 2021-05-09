@@ -1,0 +1,8 @@
+{
+  "name": "covboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:georgejakes/covboard.git",
+  "author": "George Jacob <georgejakes@gmail.com>",
+  "license": "MIT"
+}
